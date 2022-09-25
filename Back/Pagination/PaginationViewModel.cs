@@ -9,4 +9,3 @@ public class PaginationViewModel
     public bool HasNext { get; set; }
     public bool HasPrevious { get; set; }
 }
-

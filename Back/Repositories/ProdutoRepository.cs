@@ -3,7 +3,6 @@ using Api.Interfaces;
 using Api.Models;
 using Api.Pagination;
 using Dapper;
-using Data.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace Api.Repositories;
